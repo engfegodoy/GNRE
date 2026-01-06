@@ -1,0 +1,5 @@
+{
+  "name": "GNRE Reader & Itaú CNAB 240 Generator",
+  "description": "A specialized tool for Brazilian businesses to read GNRE (Guia Nacional de Recolhimento de Tributos Estaduais) PDFs, extract payment data using Gemini AI, and generate a valid CNAB 240 (Sispag) file for automated payment processing through Banco Itaú.",
+  "requestFramePermissions": []
+}
